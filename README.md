@@ -7,6 +7,11 @@ folder. Once the code has been pushed to the repository, it will be
 automatically scanned by Globalyzer. Within a couple of minutes, the results
 will be shown on the sandbox dashboard at [sandbox.lingoport.com](http://sandbox.lingoport.com).
 
+## Access
+
+To use the sandbox, you will need contributor access. Please [create an
+issue](https://github.com/lingoport-public/sandbox/issues/new) to request access.
+
 ## In this Sandbox:
 
 + Add or modify C# (.cs), Javascript (.js, .html) and Java (.java) files: The Dashboard should reflect new i18n issues.
