@@ -36,4 +36,4 @@ Within a couple of minutes, the Lingoport Sandbox
 
 ## Notes
 
-The 'working' branch will be reset on a weekly basis.
+The 'working' branch will be reset to match 'master' on a weekly basis. Pushing to master is disabled.
