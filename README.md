@@ -5,7 +5,7 @@ Welcome to the Lingoport Sandbox. Use the sandbox to get a feel for Lingoport's
 Globalyzer. You may commit Java, JavaScript or C# code under the relevant
 folder. Once the code has been pushed to the repository, it will be
 automatically scanned by Globalyzer. Within a couple of minutes, the results
-will be shown on the sandbox dashboard at [sandbox.lingoport.com](http://sandbox.lingoport.com).
+will be shown on the sandbox dashboard at [sandbox.lingoport.com](http://sandbox.lingoport.com/dashboard/index?id=Lingoport.Sandbox%3Ascan).
 
 ## Access
 
@@ -17,12 +17,12 @@ issue](https://github.com/lingoport-public/sandbox/issues/new) to request access
 + Add or modify C# (.cs), Javascript (.js, .html) and Java (.java) files: The Dashboard should reflect new i18n issues.
 + Add or modify resource bundles with \_en\_US.(json/properties) / .en-US (resx) for the base files, and \_fr\_FR.(json/properties) / .fr-FR (resx) for the translated files.
 * The tracked locales are: en\_US (the files to be translated), fr\_FR, de\_DE, ja\_JP, and zh\_CN.
-  * So for example: messages\_en\_US.properties and messages\_ja\_JP.properties, etc. or errors.en-US.resx and errors.de-DE.resx, etc.
+  * So for example: messages\_en\_US.properties and messages\_ja\_JP.properties, etc. Or errors.en-US.resx and errors.de-DE.resx, etc.
 
 ## Usage
 
 1. Clone the repository
-   * $ git clone https://github.com/sandboxLingoport/sandbox.git
+   * $ git clone https://github.com/lingoport-public/sandbox.git
 2. Checkout the working branch
    * $ git checkout working
 3. Add Java, JavaScript and/or C# code under the relevant directory.
@@ -32,7 +32,8 @@ issue](https://github.com/lingoport-public/sandbox/issues/new) to request access
    * $ git push origin working
 
 Within a couple of minutes, the Lingoport Sandbox
-[Dashboard](http://sandbox.lingoport.com) will update to include a scan of your changes.
+[Dashboard](http://sandbox.lingoport.com/dashboard/index?id=Lingoport.Sandbox%3Ascan)
+will update to include a scan of your changes.
 
 ## Notes
 
