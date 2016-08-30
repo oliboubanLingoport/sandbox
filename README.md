@@ -7,6 +7,9 @@ folder. Once the code has been pushed to the repository, it will be
 automatically scanned by Globalyzer. Within a couple of minutes, the results
 will be shown on the sandbox dashboard at [sandbox.lingoport.com](http://sandbox.lingoport.com/dashboard/index?id=Lingoport.Sandbox%3Ascan).
 
+Video introductions to the sandbox are available at
+[lingoport.com/pd/lingoport-suite-sandbox](http://lingoport.com/pd/lingoport-suite-sandbox/).
+
 ## Access
 
 To use the sandbox, you will need contributor access. Please [create an
