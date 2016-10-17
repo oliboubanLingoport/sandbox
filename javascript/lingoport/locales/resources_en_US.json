@@ -1,6 +1,6 @@
 {
   "key1": "This is some text in U.S. English",
   "key2": "This is more test in U.S. English",
-  "key3": "{count, plural, 1 {Child}  2 or other {Children}}",
+  "key3": "{count, plural, 1 {Child}  {Children}}",
   "key4": "{days, plural, =0 {Your trial expires today!} =1 {Your trial expires tomorrow!} other {Your trial will expire in {days} days.}}"
 }
