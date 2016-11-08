@@ -26,8 +26,8 @@ issue](https://github.com/lingoport-public/sandbox/issues/new) to request access
 
 1. Clone the repository
    * $ git clone https://github.com/lingoport-public/sandbox.git
-2. Checkout the working branch
-   * $ git checkout working
+2. Checkout the <b>working</b> branch
+   * $ git checkout <b>working</b>
 3. Add Java, JavaScript and/or C# code under the relevant directory.
 4. Commit and push you changes
    * $ git add &lt;changed files here&gt;
