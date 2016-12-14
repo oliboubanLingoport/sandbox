@@ -1,4 +1,4 @@
-# sandbox
+# Sandbox
 
 ## Welcome
 Welcome to the Lingoport Sandbox. Use the sandbox to get a feel for Lingoport's
